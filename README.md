@@ -1,6 +1,10 @@
 ### Hi there 👋
-<iframe src="https://giphy.com/embed/5Zesu5VPNGJlm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/5Zesu5VPNGJlm">via GIPHY</a></p>
-<!--
+
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/5Zesu5VPNGJlm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/5Zesu5VPNGJlm" width="100"/>
+</div> 
+
+
 **betulince/betulince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
