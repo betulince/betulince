@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/5Zesu5VPNGJlm" width="480" height="270" frameBorder="0"/>
+  <img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif" width="480" height="270" frameBorder="0"/>
 </div> 
-
 
 **betulince/betulince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
