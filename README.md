@@ -5,9 +5,9 @@
 </div> 
 
 ## About me
-A passionate Software Engineer in Deloitte Cloud Engineering, specializing in event-driven architecture and backend development. My primary programming language is Java, and I love working with the Spring Framework to build robust and scalable applications. I'm particularly interested in event-driven systems and how they enhance the flexibility and scalability of modern applications. Currently, I'm exploring the power of Apache Kafka to create efficient event-driven solutions. Besides my love for backend technologies, I'm also experienced in leveraging AWS cloud services to design and deploy cloud-native applications. 
+A passionate Software Engineer in Deloitte Cloud Engineering, specializing in event-driven architecture and backend development. My primary programming language is Java, and I love working with the Spring Framework to build robust and scalable applications. I'm particularly interested in event-driven systems. Besides my love for backend technologies, I'm also experienced in leveraging AWS cloud services to design and deploy cloud-native applications. 
 
-Feel free to explore my repositories to find projects related to my interests and endeavors. Don't hesitate to connect with me; I'm always eager to learn and collaborate on exciting new projects. 🚀
+Don't hesitate to connect with me; I'm always eager to learn and collaborate on exciting new projects. 🚀
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/betul-ince-2489581aa/">
