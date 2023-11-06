@@ -1,11 +1,11 @@
-# Hello hello, it's Betul!
+## Hi there!
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/x5lIgu2DDtI5IzdtUg/giphy.gif" width="240" height="169" />
 </div> 
 
 ## About me
-A passionate Software Engineer in Deloitte Cloud Engineering, specializing in event-driven architecture and backend development. My primary programming language is Java, and I love working with the Spring Framework to build robust and scalable applications. I'm particularly interested in event-driven systems. Besides my love for backend technologies, I'm also experienced in leveraging AWS cloud services to design and deploy cloud-native applications. 
+A passionate Software Engineer in Deloitte Cloud Engineering, specializing in event-driven architecture and backend development. My primary programming language is Java, and I love working with the Spring Framework to build robust and scalable applications. I'm particularly interested in event-driven systems. Besides my love for backend technologies, I'm also experiencing in leveraging AWS cloud services to design and deploy cloud-native applications. 
 
 Don't hesitate to connect with me; I'm always eager to learn and collaborate on exciting new projects. 🚀
 
