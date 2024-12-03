@@ -1,3 +1,3 @@
 ## Hi
 
-I hate leetcode
+I like core java
